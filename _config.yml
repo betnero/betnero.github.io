@@ -1,5 +1,4 @@
-title: My Awesome Site
-description: A website using Jekyll and GitHub Pages.
+title: My Awesome Website
+description: A simple website using Jekyll and GitHub Pages.
 theme: minima
-baseurl: ""
-url: "https://username.github.io"
+url: "https://betnero.github.io"
